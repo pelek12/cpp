@@ -4,12 +4,15 @@
 #define pustka void                                                                
 #define zwroc return                                                               
 #define zero 0                                                                     
+#define wskazanie_ze_masz_problem 1
 #define wskazanie_ze_wszystko_sie_powiodlo 0                                            
 #define rowny =                                                                    
 #define mniejszy_niz <                                                             
 #define jeden_w_gore ++                                                            
 #define dla for                                                                    
 #define jezeliby if                                                                
+#define gdyby_tak_sie_zdarzylo_przypadkiem_ze if
+#define nie_masz_racji 0
 #define wydrukuj printf                                                            
 #define na_ekranie_liczbe "%d\n",
 
