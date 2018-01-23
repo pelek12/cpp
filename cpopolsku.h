@@ -23,8 +23,8 @@
 
 #define dodac +
 #define odjac -
-#define przemnozone przez *
-#define podzielone przez /
+#define przemnozone_przez *
+#define podzielone_przez /
 
 
 #define tak_wypadlo_ze (
