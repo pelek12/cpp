@@ -6,7 +6,10 @@
 #define zero 0                                                                     
 #define wskazanie_ze_wszystko_sie_powiodlo 0                                            
 #define rowny =                                                                    
-#define mniejszy_niz <                                                             
+#define mniejszy_niz <
+#define wiekszy_niz >
+#define mniejszy_lub_rowny <<
+#define wiekszy_lub_rowny >>
 #define jeden_w_gore ++                                                            
 #define dla for                                                                    
 #define jezeliby if                                                                
