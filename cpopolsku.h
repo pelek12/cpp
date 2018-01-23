@@ -21,5 +21,11 @@
 #define wydrukuj printf                                                            
 #define na_ekranie_liczbe "%d\n",
 
+#define dodac +
+#define odjac -
+#define przemnozone przez *
+#define podzielone przez /
+
+
 #define tak_wypadlo_ze (
 #define to_wtedy )
